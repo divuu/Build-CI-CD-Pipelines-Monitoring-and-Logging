@@ -1,4 +1,4 @@
-How to Build CI/CD Pipelines, Monitoring, and Logging
+### How to Build CI/CD Pipelines, Monitoring, and Logging
 This repository provides the supporting material for how to Build CI/CD Pipelines, Monitoring, and Logging. This repo has two more branches, other than the master branch. 
 
 * Blue/Green branch corresponds to the Blue/Green deployment strategy. Make sure that you checkout branches "blue" and "green" to see how blue/green deployment was performed in the course.
